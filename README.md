@@ -1,5 +1,11 @@
 ## Bun-sample-with-expressjs-and-typescript
 
+<h3>fork this repo</h3>
+
+```
+git clone https://github.com/abrazax56/Bun-sample.git
+```
+
 <h3>install bun</h3>
 
 install bun with cli `curl -fsSL https://bun.sh/install | bash`
