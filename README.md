@@ -3,4 +3,5 @@
 ```{
   "name":"bun-sample",
   "version":"1.0.0"
-}```
+}
+```
