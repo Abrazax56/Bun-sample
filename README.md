@@ -2,4 +2,4 @@
 
 <h3>install dependency</h3>
 
-### to install dependency you can use `bun install`
+to install dependency you can use `bun install`
