@@ -1,5 +1,16 @@
 ## Bun-sample-with-expressjs-and-typescript
 
+```json
+{
+  "name": "bun-sample",
+  "version": "1.0.0",
+  "author": {
+    "name": "ahmad beni rusli",
+    "whatsapp": "+62 882-1601-8165"
+  }
+}
+```
+
 <h3>fork this repo</h3>
 
 ```
